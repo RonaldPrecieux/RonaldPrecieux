@@ -1,112 +1,111 @@
-# 👋 Hi, I'm Précieux Goudou
+# 👋 Bonjour, je suis Ronald P. Goudou
 
-🎓 **Graduate in Computer Science (Bac+3)**
-🚀 **Future Embedded Systems & IoT Engineer**
-☁️ **Machine Learning & Cloud Enthusiast**
+🎓 **Diplômé en Informatique (Bac+3)**
+🚀 **Futur Ingénieur Systèmes Embarqués & IoT**
+☁️ **Passionné de Machine Learning & Cloud**
 📍 **Lyon, France**
-📅 **Available for a 4-month internship (June – September 2026)**
+📅 **Disponible pour un stage de 4 mois (Juin – Septembre 2026)**
 
-📧 **Email**: [precieuxgoudou@gmail.com](mailto:precieuxgoudou@gmail.com)
-🔗 **LinkedIn**: [linkedin.com/in/ronald-precieux-goudou](https://linkedin.com/in/ronald-precieux-goudou)
-💻 **GitHub**: [github.com/RonaldPrecieux](https://github.com/RonaldPrecieux)
-
----
-
-## 👨‍💻 About Me
-
-I am trained in **embedded systems and IoT**, with a strong focus on designing **intelligent software solutions** for data collection, processing, and exploitation.
-
-My work follows a structured technical pipeline:
-
-1. **IoT Data Acquisition**
-   Design and implementation of embedded and connected systems for real-time data collection.
-
-2. **Edge, Cloud & Hybrid Architectures**
-   Deployment of scalable architectures dedicated to data ingestion, processing, and communication, both on the edge and in the cloud.
-
-3. **Machine Learning for IoT Data**
-   Exploitation of collected data using machine learning techniques to extract insights, automate decisions, and optimize system behavior.
-
-4. **RESTful APIs & Backend Services**
-   Development of robust APIs to expose data, models, and services to applications and external systems.
-
-I am particularly interested in **real-time systems**, **edge computing**, **autonomous and connected devices**, and **scalable cloud infrastructures**.
+📧 **Email** : [precieuxgoudou@gmail.com](mailto:precieuxgoudou@gmail.com)
+🔗 **LinkedIn** : [linkedin.com/in/ronald-precieux-goudou](https://linkedin.com/in/ronald-precieux-goudou)
+💻 **GitHub** : [github.com/RonaldPrecieux](https://github.com/RonaldPrecieux)
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 À propos de moi
 
-### 🔧 Embedded Systems & IoT
+Formé aux **systèmes embarqués et à l’IoT**, je conçois des **solutions logicielles intelligentes** pour la collecte, le traitement et l’exploitation de données issues d’objets connectés.
 
-* Microcontrollers & SBCs (ESP32, Arduino, Raspberry Pi)
-* Sensors, actuators, communication protocols
+Mon travail s’appuie sur une approche structurée :
+
+1. **Collecte de données IoT**
+   Conception et mise en œuvre de systèmes embarqués et connectés pour la collecte de données en temps réel.
+
+2. **Architectures Edge, Cloud & Hybrides**
+   Déploiement d’architectures scalables dédiées à l’ingestion, au traitement et à la communication des données, en edge comme dans le cloud.
+
+3. **Machine Learning appliqué à l’IoT**
+   Exploitation des données collectées à l’aide de techniques de machine learning pour extraire des informations pertinentes, automatiser les décisions et optimiser le comportement des systèmes.
+
+4. **APIs REST & Services Backend**
+   Développement d’APIs robustes pour exposer les données, modèles et services aux applications et systèmes externes.
+
+Je m’intéresse particulièrement aux **systèmes temps réel**, au **edge computing**, aux **systèmes autonomes et connectés**, ainsi qu’aux **infrastructures cloud scalables**.
+
+---
+
+## 🛠️ Compétences techniques
+
+### 🔧 Systèmes embarqués & IoT
+
+* Microcontrôleurs & SBC (ESP32, Arduino, Raspberry Pi)
+* Capteurs, actionneurs, protocoles de communication
 * MQTT, HTTP, REST
-* Edge computing & offline-first systems
+* Edge computing & systèmes offline-first
 
 ### ☁️ Cloud & Backend
 
-* Cloud architectures (Edge / Cloud / Hybrid)
-* RESTful API design
+* Architectures cloud (Edge / Cloud / Hybride)
+* Conception d’APIs REST
 * Django, Django REST Framework
-* Data ingestion pipelines
+* Pipelines d’ingestion de données
 
 ### 🤖 Machine Learning
 
-* Data preprocessing & analysis
-* Supervised learning fundamentals
-* Model deployment concepts
-* Applied ML for IoT use cases
+* Prétraitement et analyse de données
+* Bases de l’apprentissage supervisé
+* Concepts de déploiement de modèles
+* ML appliqué aux cas d’usage IoT
 
-### 💻 Programming Languages
+### 💻 Langages de programmation
 
 * Python
 * C / C++
-* JavaScript (React and Next.js)
+* JavaScript (React & Next.js)
 
-### 🧰 Tools & Technologies
+### 🧰 Outils & Technologies
 
 * Git & GitHub
 * Linux
-* Docker 
-* SQL / NoSQL 
+* Docker
+* Bases SQL / NoSQL
 
 ---
 
-## 📂 What You’ll Find on This GitHub
+## 📂 Contenu de ce GitHub
 
-This GitHub contains projects related to:
+Ce GitHub regroupe des projets liés à :
 
-* 📡 **IoT & Embedded systems**
-* 🏠 **Smart devices & home automation**
-* 🧠 **Machine learning experiments**
-* 🌐 **APIs & backend services**
-* ⚙️ **Edge computing and offline systems**
+* 📡 **IoT & systèmes embarqués**
+* 🏠 **Objets connectés & domotique**
+* 🧠 **Expérimentations en machine learning**
+* 🌐 **APIs & services backend**
+* ⚙️ **Edge computing & systèmes offline**
 
-Each repository includes documentation explaining:
+Chaque dépôt contient une documentation précisant :
 
-* The problem addressed
-* The system architecture
-* The technologies used
-* The implementation details
-
----
-
-## 🎯 Objectives
-
-* Strengthen my expertise in **embedded and connected systems**
-* Build **robust and scalable IoT architectures**
-* Apply **machine learning to real-world IoT data**
-* Gain professional experience through a **technical internship in 2026**
+* Le problème traité
+* L’architecture du système
+* Les technologies utilisées
+* Les détails d’implémentation
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Objectifs
 
-I am open to:
+* Renforcer mon expertise en **systèmes embarqués et connectés**
+* Concevoir des **architectures IoT robustes et scalables**
+* Appliquer le **machine learning à des données IoT réelles**
+* Acquérir une expérience professionnelle à travers un **stage technique en 2026**
 
-* Internship opportunities (Embedded, IoT, Cloud, ML)
-* Technical discussions and collaborations
-* Feedback on my projects
+---
 
-📩 Feel free to contact me or explore my repositories.
+## 🤝 Me contacter
 
+Ouvert aux :
+
+* Opportunités de **stage** (Embarqué, IoT, Cloud, ML)
+* Échanges techniques et collaborations
+* Retours sur mes projets
+
+📩 N’hésitez pas à me contacter ou à explorer mes dépôts.
