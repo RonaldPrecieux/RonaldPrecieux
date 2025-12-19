@@ -61,14 +61,14 @@ I am particularly interested in **real-time systems**, **edge computing**, **aut
 
 * Python
 * C / C++
-* JavaScript (basic backend & tooling)
+* JavaScript (React and Next.js)
 
 ### 🧰 Tools & Technologies
 
 * Git & GitHub
 * Linux
-* Docker (basics)
-* SQL / NoSQL (basics)
+* Docker 
+* SQL / NoSQL 
 
 ---
 
